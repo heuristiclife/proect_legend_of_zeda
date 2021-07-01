@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
 	"FileVersion": 3,
 	"EngineAssociation": "4.26",
@@ -10,4 +11,18 @@
 			"LoadingPhase": "Default"
 		}
 	]
+=======
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.26",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "MyProjectxx",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+>>>>>>> master
 }
